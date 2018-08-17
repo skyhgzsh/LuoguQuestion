@@ -1,2 +1,3 @@
 # LuoguQuestion
-写洛谷用
+This is help me to solve Luogu questiom
+LuoGu:www.luogu.com
